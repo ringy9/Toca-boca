@@ -1,0 +1,56 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "485f8dab2520f3c7",
+            "max_int": "d48222ef643c9e2d",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Toca boca",
+            "photo": "https://i.postimg.cc/0yKRhTT0/0a198b96582b398b114cf67e5137a87b.jpg",
+            "voice": "https://ringy9.github.io/Toca-boca/sanvidclus.mp4",
+            "video": "https://ringy9.github.io/Toca-boca/sanvoicclus.mp3",
+            "stories": [
+               "https://i.postimg.cc/0yKRhTT0/0a198b96582b398b114cf67e5137a87b.jpg",
+"https://i.postimg.cc/XvMSW23S/0cf4752d9024aca949ec914ce2743037.jpg",
+"https://i.postimg.cc/vBMJgcc0/3a1501c02f56f7a5eaa5e93155d738f4.jpg",
+"https://i.postimg.cc/254pS48q/4e449f8c1ba91211cca314500fd06b9a.jpg",
+"https://i.postimg.cc/MTDhyqBq/587a4f582b6a5956ed06d909eeff00a5.jpg",
+"https://i.postimg.cc/SRxHd3L8/896f828c99b47a8732379ffed4d3ac4d.jpg",
+"https://i.postimg.cc/hvZ65sMY/b31e9f92db5bd092fbbcc8954729b661.jpg",
+"https://i.postimg.cc/TYhZD83v/b7311c33a9ce86bb92429758bff74f2b.jpg",
+"https://i.postimg.cc/3rtsNr7Z/bb7883b63fb889164420d31bfd358d86.jpg",
+"https://i.postimg.cc/rFb7GhD0/c84ea624ab4910eb2e26ec8aecf14b5d.jpg",
+"https://i.postimg.cc/nhDg3vmd/e44c50222eb53a538b8b343e98807ea6.jpg",
+"https://i.postimg.cc/pdM74pYP/e706a1e7276231bbf06202c30c6b2fc6.jpg",
+"https://i.postimg.cc/cJ7jS0Xw/f39a8039279d77afeff7377bdd1926a7.jpg",
+"https://i.postimg.cc/rm8Hy3Pb/wonder-day-toca-boca-phone-wallpaper-21.jpg"
+            ],
+            "wallpapers": [
+              "https://i.postimg.cc/0yKRhTT0/0a198b96582b398b114cf67e5137a87b.jpg",
+"https://i.postimg.cc/XvMSW23S/0cf4752d9024aca949ec914ce2743037.jpg",
+"https://i.postimg.cc/vBMJgcc0/3a1501c02f56f7a5eaa5e93155d738f4.jpg",
+"https://i.postimg.cc/254pS48q/4e449f8c1ba91211cca314500fd06b9a.jpg",
+"https://i.postimg.cc/MTDhyqBq/587a4f582b6a5956ed06d909eeff00a5.jpg",
+"https://i.postimg.cc/SRxHd3L8/896f828c99b47a8732379ffed4d3ac4d.jpg",
+"https://i.postimg.cc/hvZ65sMY/b31e9f92db5bd092fbbcc8954729b661.jpg",
+"https://i.postimg.cc/TYhZD83v/b7311c33a9ce86bb92429758bff74f2b.jpg",
+"https://i.postimg.cc/3rtsNr7Z/bb7883b63fb889164420d31bfd358d86.jpg",
+"https://i.postimg.cc/rFb7GhD0/c84ea624ab4910eb2e26ec8aecf14b5d.jpg",
+"https://i.postimg.cc/nhDg3vmd/e44c50222eb53a538b8b343e98807ea6.jpg",
+"https://i.postimg.cc/pdM74pYP/e706a1e7276231bbf06202c30c6b2fc6.jpg",
+"https://i.postimg.cc/cJ7jS0Xw/f39a8039279d77afeff7377bdd1926a7.jpg",
+"https://i.postimg.cc/rm8Hy3Pb/wonder-day-toca-boca-phone-wallpaper-21.jpg"
+            ]
+          
+        }
+    ]
+}
