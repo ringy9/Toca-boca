@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/9499214639",
+      "admob_int": "ca-app-pub-4693715157350667/6422776530",
+      "admob_native": "ca-app-pub-4693715157350667/7854126326",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "BTS J-Hope",
+      "photo": "https://i.postimg.cc/bvwcLT2g/8c9f7c00c124c3e46884d07924bf6c18.jpg",
+      "voice": "https://ringy9.github.io/BTS-J-Hope/hero_voice.mp3",
+      "video": "https://ringy9.github.io/BTS-J-Hope/hero_video.mp4",
+      "stories": [
+        "https://i.postimg.cc/htKHPrMn/075e8d6ca65456ecfc221cb865de4c95.jpg",
+        "https://i.postimg.cc/vZzwWjDD/1c88dceede3f45c59909b1fcef93a88d.jpg",
+        "https://i.postimg.cc/jj3V17Hb/822764fe18863e1c8b7b050851ee54ea.jpg",
+        "https://i.postimg.cc/bvwcLT2g/8c9f7c00c124c3e46884d07924bf6c18.jpg",
+        "https://i.postimg.cc/G26WLngg/a5f22eb71fc41963c17f275d5cc33702.jpg",
+        "https://i.postimg.cc/tCQK8yxY/ae719250b4133b29ca68142fc617fab0.jpg",
+        "https://i.postimg.cc/66vsHTTk/ae87e881072413b6f672b422c57cd80e.jpg",
+        "https://i.postimg.cc/5NBhVGBp/bc3736ff26771cfd86c63a1f9588de56.jpg",
+        "https://i.postimg.cc/tT10G4kV/be2f9e64aa912ded115989739e705057.jpg",
+        "https://i.postimg.cc/5t0T82Zk/c4e58df1cc25ec020b727d24d2a8ba64.jpg",
+        "https://i.postimg.cc/52pDHCkC/e39b0ed58ab5e5655fcc536a64bffb53.jpg"
+        
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/htKHPrMn/075e8d6ca65456ecfc221cb865de4c95.jpg",
+        "https://i.postimg.cc/vZzwWjDD/1c88dceede3f45c59909b1fcef93a88d.jpg",
+        "https://i.postimg.cc/jj3V17Hb/822764fe18863e1c8b7b050851ee54ea.jpg",
+        "https://i.postimg.cc/bvwcLT2g/8c9f7c00c124c3e46884d07924bf6c18.jpg",
+        "https://i.postimg.cc/G26WLngg/a5f22eb71fc41963c17f275d5cc33702.jpg",
+        "https://i.postimg.cc/tCQK8yxY/ae719250b4133b29ca68142fc617fab0.jpg",
+        "https://i.postimg.cc/66vsHTTk/ae87e881072413b6f672b422c57cd80e.jpg",
+        "https://i.postimg.cc/5NBhVGBp/bc3736ff26771cfd86c63a1f9588de56.jpg",
+        "https://i.postimg.cc/tT10G4kV/be2f9e64aa912ded115989739e705057.jpg",
+        "https://i.postimg.cc/5t0T82Zk/c4e58df1cc25ec020b727d24d2a8ba64.jpg",
+        "https://i.postimg.cc/52pDHCkC/e39b0ed58ab5e5655fcc536a64bffb53.jpg"
+        
+      ]
+    }
+  ]
+}
