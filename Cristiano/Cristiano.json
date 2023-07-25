@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/2650735250",
+      "admob_int": "ca-app-pub-4693715157350667/7711490244",
+      "admob_native": "ca-app-pub-4693715157350667/6398408573",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "Cristiano Ronaldo",
+      "photo": "https://i.postimg.cc/RVcFSVKB/E-SWPjg-Xs-JYem-J0-1.jpg",
+      "voice": "https://ringy9.github.io/CristianoRonaldo/mp3.mp4",
+      "video": "https://ringy9.github.io/CristianoRonaldo/vid1.mp4",
+      "stories": [
+        "https://i.postimg.cc/YCzwVvgv/img1.jpg",
+        "https://i.postimg.cc/TP2XXTqC/img2.jpg",
+        "https://i.postimg.cc/6QHxWFMw/img3.jpg",
+        "https://i.postimg.cc/nc7x4RhY/img4.jpg"
+        
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/YCzwVvgv/img1.jpg",
+        "https://i.postimg.cc/TP2XXTqC/img2.jpg",
+        "https://i.postimg.cc/6QHxWFMw/img3.jpg",
+        "https://i.postimg.cc/nc7x4RhY/img4.jpg"
+        
+      ]
+    }
+  ]
+}
