@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/1554373484",
+      "admob_int": "ca-app-pub-4693715157350667/5766184888",
+      "admob_native": "ca-app-pub-4693715157350667/5302046803",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "Blippi",
+      "photo": "https://i.postimg.cc/fL31Xph4/43383986-2021122387923896-6226623756429688832-o.jpg",
+      "voice": "https://ringy9.github.io/Blippi/conversion.mp3",
+      "video": "https://ringy9.github.io/Blippi/vi1.mp4",
+      "stories": [
+        "https://i.postimg.cc/3N5fGwBp/44261246-2034884376547697-3252912130097152000-o.jpg",
+        "https://i.postimg.cc/3rmcTg8Z/44433681-2040325872670214-3204322795710316544-o.jpg",
+        "https://i.postimg.cc/kGQ1vd1H/44770221-2042144242488377-3231094821514903552-n.jpg",
+        "https://i.postimg.cc/fTsgTJkQ/52940696-2251240594912073-8688216706591490048-n.jpg",
+        "https://i.postimg.cc/FKYTnSC3/53236156-2231927510176715-6463433950890033152-o.jpg",
+        "https://i.postimg.cc/yYTpJsSg/53676985-2251240508245415-4056593415616331776-n.jpg",
+        "https://i.postimg.cc/XY7Hdmw2/54002520-2251240628245403-8684268308796538880-n.jpg",
+        "https://i.postimg.cc/Gm7MQKKb/54002522-2251240244912108-8725792267362631680-n.jpg",
+        "https://i.postimg.cc/Qt50j33M/54277786-2261537597215706-3494307816326299648-o.jpg",
+        "https://i.postimg.cc/xdB6rdB7/54433207-2261537780549021-5125272001455325184-o.jpg",
+        "https://i.postimg.cc/Hng3xhY9/54519932-2251240414912091-6991342060712230912-n.jpg",
+        
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/3N5fGwBp/44261246-2034884376547697-3252912130097152000-o.jpg",
+        "https://i.postimg.cc/3rmcTg8Z/44433681-2040325872670214-3204322795710316544-o.jpg",
+        "https://i.postimg.cc/kGQ1vd1H/44770221-2042144242488377-3231094821514903552-n.jpg",
+        "https://i.postimg.cc/fTsgTJkQ/52940696-2251240594912073-8688216706591490048-n.jpg",
+        "https://i.postimg.cc/FKYTnSC3/53236156-2231927510176715-6463433950890033152-o.jpg",
+        "https://i.postimg.cc/yYTpJsSg/53676985-2251240508245415-4056593415616331776-n.jpg",
+        "https://i.postimg.cc/XY7Hdmw2/54002520-2251240628245403-8684268308796538880-n.jpg",
+        "https://i.postimg.cc/Gm7MQKKb/54002522-2251240244912108-8725792267362631680-n.jpg",
+        "https://i.postimg.cc/Qt50j33M/54277786-2261537597215706-3494307816326299648-o.jpg",
+        "https://i.postimg.cc/xdB6rdB7/54433207-2261537780549021-5125272001455325184-o.jpg",
+        "https://i.postimg.cc/Hng3xhY9/54519932-2251240414912091-6991342060712230912-n.jpg",
+        
+      ]
+    }
+  ]
+}
