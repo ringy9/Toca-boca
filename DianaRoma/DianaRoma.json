@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/3414303961",
+      "admob_int": "ca-app-pub-4693715157350667/1501305115",
+      "admob_native": "ca-app-pub-4693715157350667/3222732273",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "Diana and Roma",
+      "photo": "https://i.postimg.cc/GhMKzXWf/image34.jpg",
+      "voice": "https://ringy9.github.io/Diana-and-Roma/dianaandroma.mp3",
+      "video": "https://ringy9.github.io/Diana-and-Roma/dianaandromavid1.mp4",
+      "stories": [
+        "https://i.postimg.cc/VLFpw939/image14.jpg",
+        "https://i.postimg.cc/XY7hYGbR/image15.jpg",
+        "https://i.postimg.cc/XYHPGjNp/image16.jpg",
+        "https://i.postimg.cc/vm4N5JDX/image17.jpg",
+        "https://i.postimg.cc/xdBF56zQ/image18.jpg",
+        "https://i.postimg.cc/85WX0LR6/image19.jpg",
+        "https://i.postimg.cc/SRh1Fjdt/image20.jpg",
+        "https://i.postimg.cc/fyf2wZgW/image21.jpg",
+        "https://i.postimg.cc/8kRndBP8/image22.jpg",
+        "https://i.postimg.cc/9FcgLRrD/image23.jpg",
+        "https://i.postimg.cc/15MC2mqJ/image24.jpg"
+        
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/VLFpw939/image14.jpg",
+        "https://i.postimg.cc/XY7hYGbR/image15.jpg",
+        "https://i.postimg.cc/XYHPGjNp/image16.jpg",
+        "https://i.postimg.cc/vm4N5JDX/image17.jpg",
+        "https://i.postimg.cc/xdBF56zQ/image18.jpg",
+        "https://i.postimg.cc/85WX0LR6/image19.jpg",
+        "https://i.postimg.cc/SRh1Fjdt/image20.jpg",
+        "https://i.postimg.cc/fyf2wZgW/image21.jpg",
+        "https://i.postimg.cc/8kRndBP8/image22.jpg",
+        "https://i.postimg.cc/9FcgLRrD/image23.jpg",
+        "https://i.postimg.cc/15MC2mqJ/image24.jpg"
+        
+      ]
+    }
+  ]
+}
