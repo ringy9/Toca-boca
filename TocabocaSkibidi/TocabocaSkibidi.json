@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/8127790198",
+      "admob_int": "ca-app-pub-4693715157350667/2655971668",
+      "admob_native": "ca-app-pub-4693715157350667/5501626856",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "Toca boca Skibidi",
+      "photo": "https://i.postimg.cc/0yKRhTT0/0a198b96582b398b114cf67e5137a87b.jpg",
+      "voice": "https://ringy9.github.io/Blackpink/MariaClara/MariaClara.mp3",
+      "video": "https://ringy9.github.io/Blackpink/MariaClara/MariaClara.mp4",
+      "stories": [
+        "https://i.postimg.cc/0yKRhTT0/0a198b96582b398b114cf67e5137a87b.jpg",
+        "https://i.postimg.cc/XvMSW23S/0cf4752d9024aca949ec914ce2743037.jpg",
+        "https://i.postimg.cc/vBMJgcc0/3a1501c02f56f7a5eaa5e93155d738f4.jpg",
+        "https://i.postimg.cc/254pS48q/4e449f8c1ba91211cca314500fd06b9a.jpg",
+        "https://i.postimg.cc/MTDhyqBq/587a4f582b6a5956ed06d909eeff00a5.jpg",
+        "https://i.postimg.cc/SRxHd3L8/896f828c99b47a8732379ffed4d3ac4d.jpg",
+        "https://i.postimg.cc/hvZ65sMY/b31e9f92db5bd092fbbcc8954729b661.jpg",
+        "https://i.postimg.cc/TYhZD83v/b7311c33a9ce86bb92429758bff74f2b.jpg",
+        "https://i.postimg.cc/3rtsNr7Z/bb7883b63fb889164420d31bfd358d86.jpg",
+        "https://i.postimg.cc/rFb7GhD0/c84ea624ab4910eb2e26ec8aecf14b5d.jpg",
+        "https://i.postimg.cc/nhDg3vmd/e44c50222eb53a538b8b343e98807ea6.jpg",
+        "https://i.postimg.cc/pdM74pYP/e706a1e7276231bbf06202c30c6b2fc6.jpg",
+        "https://i.postimg.cc/cJ7jS0Xw/f39a8039279d77afeff7377bdd1926a7.jpg",
+        "https://i.postimg.cc/rm8Hy3Pb/wonder-day-toca-boca-phone-wallpaper-21.jpg"
+        
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/CLxSKjrv/287272755-603434211203241-5507950957902839877-n.jpg",
+        "https://i.postimg.cc/pXcx5pgP/334839036-156322336952157-6906672161282478772-n.jpg",
+        "https://i.postimg.cc/3RZQ8RX5/342754609-609623754495541-195182502668645504-n.jpg",
+        "https://i.postimg.cc/Xvd0PxXv/342912900-1276058623316313-1130197504039112433-n.jpg",
+        "https://i.postimg.cc/zvXZVr7L/344865791-599038685497335-4885575494367078307-n.jpg",
+        "https://i.postimg.cc/FHfvyh43/344917901-525751049765628-6919237618869408382-n.jpg",
+        "https://i.postimg.cc/MphStg64/347654662-18294543598140299-6134417490579366025-n.jpg",
+        "https://i.postimg.cc/MHPkBF39/347885819-18294543616140299-1573539685925971660-n.jpg",
+        "https://i.postimg.cc/hjnqRx71/348567450-18294543607140299-9029344634072733563-n.jpg",
+        "https://i.postimg.cc/rFHXF7rm/356198325-18294861577140299-5183735727934600103-n.jpg",
+        "https://i.postimg.cc/zD0Y4yDT/images.jpg",
+        "https://i.postimg.cc/RVhxmvqy/oar2.jpg"
+        
+      ]
+    }
+  ]
+}
