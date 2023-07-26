@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/3085935243",
+      "admob_int": "ca-app-pub-4693715157350667/1581281887",
+      "admob_native": "ca-app-pub-4693715157350667/4015873530",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "Momo",
+      "photo": "https://i.postimg.cc/mZ9YyTZv/f186ce48008a0839c071ca6c4ebd3860.jpg",
+      "voice": "https://ringy9.github.io/Creepy-Momo/conversion.mp3",
+      "video": "https://ringy9.github.io/Creepy-Momo/charlotte_v.mp4",
+      "stories": [
+        "https://i.postimg.cc/HLL0w5jz/06881359f286e961034735e1869c4e74.jpg",
+        "https://i.postimg.cc/tChzppL3/0e7.jpg",
+        "https://i.postimg.cc/3N228Fb8/1122e2345e4d5a40c090fd0ac9438c1d.jpg",
+        "https://i.postimg.cc/28FngTZT/11c.png",
+        "https://i.postimg.cc/Qt2pZymY/2d2.png",
+        "https://i.postimg.cc/Cx7HnJMd/3f7.jpg",
+        "https://i.postimg.cc/W4trFvff/56a.png",
+        "https://i.postimg.cc/nLw40zDJ/826.jpg",
+        "https://i.postimg.cc/vBgWjsr6/9997936388d3eaccb37276aee44d443a.jpg",
+        "https://i.postimg.cc/x16M1Cgz/Ezr-Si-p-WUAE3n-Ks.jpg",
+        "https://i.postimg.cc/mZ9YyTZv/f186ce48008a0839c071ca6c4ebd3860.jpg",
+        "https://i.postimg.cc/Kvyn9CRR/st-small-507x507-pad-600x600-f8f8f8.jpg",
+        "https://i.postimg.cc/x1fLQHGQ/tumblr-982afb79b5a0f5eb0d8c7770363ef145-cfc0a774-540.jpg"
+        
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/HLL0w5jz/06881359f286e961034735e1869c4e74.jpg",
+        "https://i.postimg.cc/tChzppL3/0e7.jpg",
+        "https://i.postimg.cc/3N228Fb8/1122e2345e4d5a40c090fd0ac9438c1d.jpg",
+        "https://i.postimg.cc/28FngTZT/11c.png",
+        "https://i.postimg.cc/Qt2pZymY/2d2.png",
+        "https://i.postimg.cc/Cx7HnJMd/3f7.jpg",
+        "https://i.postimg.cc/W4trFvff/56a.png",
+        "https://i.postimg.cc/nLw40zDJ/826.jpg",
+        "https://i.postimg.cc/vBgWjsr6/9997936388d3eaccb37276aee44d443a.jpg",
+        "https://i.postimg.cc/x16M1Cgz/Ezr-Si-p-WUAE3n-Ks.jpg",
+        "https://i.postimg.cc/mZ9YyTZv/f186ce48008a0839c071ca6c4ebd3860.jpg",
+        "https://i.postimg.cc/Kvyn9CRR/st-small-507x507-pad-600x600-f8f8f8.jpg",
+        "https://i.postimg.cc/x1fLQHGQ/tumblr-982afb79b5a0f5eb0d8c7770363ef145-cfc0a774-540.jpg"
+        
+      ]
+    }
+  ]
+}
