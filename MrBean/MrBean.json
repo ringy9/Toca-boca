@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/5967766373",
+      "admob_int": "ca-app-pub-4693715157350667/3944238263",
+      "admob_native": "ca-app-pub-4693715157350667/8402358025",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "Mr Bean",
+      "photo": "https://i.postimg.cc/BZhtL1V9/6acf037cfd166227a32d19f7b9b9076b.jpg",
+      "voice": "https://ringy9.github.io/Mr-Bean/call1.mp3",
+      "video": "https://ringy9.github.io/Mr-Bean/vv.mp4",
+      "stories": [
+        "https://i.postimg.cc/xTCJtPz1/0bdcad953f22a0e9e7208ae395f3a7f7.jpg",
+        "https://i.postimg.cc/D0zZp2mM/390e69236d77e72b1b45fc59c0ec99e3.jpg",
+        "https://i.postimg.cc/pX697nfY/3b331a5c554162cf029f06884dd7e7bf.jpg",
+        "https://i.postimg.cc/Dw4WKy5V/3cbc77af8a647f38f395cd0960a44718.jpg",
+        "https://i.postimg.cc/15fXp5kg/4489148c14666f688e2297aea4a5c1b6.jpg",
+        "https://i.postimg.cc/nLvCCR60/5388f98dfa92d703daaabf57175a16a1.jpg",
+        "https://i.postimg.cc/BZhtL1V9/6acf037cfd166227a32d19f7b9b9076b.jpg",
+        "https://i.postimg.cc/d0MhQPSh/6bcf9bfbd15102337a5f6051c78e0736.jpg",
+        "https://i.postimg.cc/pTCrB9Vj/6c83dcb46a67c19b349950b6fbffee70.jpg",
+        "https://i.postimg.cc/3RYWpjh7/6fe004d2129766003f81d3bc6dc4788f.jpg",
+        "https://i.postimg.cc/QCnMRRTx/e82171afbbdbb0f2bf2f577e988c7cd2.jpg",
+        "https://i.postimg.cc/NfSMbvtd/p446158-i-v13-ac.jpg"
+        
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/xTCJtPz1/0bdcad953f22a0e9e7208ae395f3a7f7.jpg",
+        "https://i.postimg.cc/D0zZp2mM/390e69236d77e72b1b45fc59c0ec99e3.jpg",
+        "https://i.postimg.cc/pX697nfY/3b331a5c554162cf029f06884dd7e7bf.jpg",
+        "https://i.postimg.cc/Dw4WKy5V/3cbc77af8a647f38f395cd0960a44718.jpg",
+        "https://i.postimg.cc/15fXp5kg/4489148c14666f688e2297aea4a5c1b6.jpg",
+        "https://i.postimg.cc/nLvCCR60/5388f98dfa92d703daaabf57175a16a1.jpg",
+        "https://i.postimg.cc/BZhtL1V9/6acf037cfd166227a32d19f7b9b9076b.jpg",
+        "https://i.postimg.cc/d0MhQPSh/6bcf9bfbd15102337a5f6051c78e0736.jpg",
+        "https://i.postimg.cc/pTCrB9Vj/6c83dcb46a67c19b349950b6fbffee70.jpg",
+        "https://i.postimg.cc/3RYWpjh7/6fe004d2129766003f81d3bc6dc4788f.jpg",
+        "https://i.postimg.cc/QCnMRRTx/e82171afbbdbb0f2bf2f577e988c7cd2.jpg",
+        "https://i.postimg.cc/NfSMbvtd/p446158-i-v13-ac.jpg"
+        
+      ]
+    }
+  ]
+}
