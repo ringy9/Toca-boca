@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/3984083948",
+      "admob_int": "ca-app-pub-4693715157350667/2060574286",
+      "admob_native": "ca-app-pub-4693715157350667/8853267247",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "Hande Ercel",
+      "photo": "https://i.postimg.cc/9XvFpNby/img-0.jpg",
+      "voice": "https://ringy9.github.io/Hande-Ercel/video1.mp4",
+      "video": "https://ringy9.github.io/Hande-Ercel/video2.mp4",
+      "stories": [
+        "https://i.postimg.cc/3JS1Vmyj/img-51.png",
+        "https://i.postimg.cc/wj12pMJC/img-52.png",
+        "https://i.postimg.cc/8CWb7YZw/img-53.png",
+        "https://i.postimg.cc/y82PYKyk/img-54.png",
+        "https://i.postimg.cc/pTJYZFbF/img-55.png",
+        "https://i.postimg.cc/4y4vFxsF/img-56.png",
+        "https://i.postimg.cc/sxnPFC2f/img-57.png",
+        "https://i.postimg.cc/44wQHV1C/img-58.png",
+        "https://i.postimg.cc/J4ncN0Ts/img-59.png",
+        "https://i.postimg.cc/wjkq9xpk/img-6.png",
+        "https://i.postimg.cc/4NSvBGMB/img-60.png",
+        "https://i.postimg.cc/bvXxfTqn/img-61.png",
+        "https://i.postimg.cc/FHky6qXm/img-62.png",
+        "https://i.postimg.cc/zfnnzgfc/img-63.png",
+        "https://i.postimg.cc/XJ49pYG7/img-64.png",
+        "https://i.postimg.cc/NMDmTvm8/img-65.png"
+        
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/3JS1Vmyj/img-51.png",
+        "https://i.postimg.cc/wj12pMJC/img-52.png",
+        "https://i.postimg.cc/8CWb7YZw/img-53.png",
+        "https://i.postimg.cc/y82PYKyk/img-54.png",
+        "https://i.postimg.cc/pTJYZFbF/img-55.png",
+        "https://i.postimg.cc/4y4vFxsF/img-56.png",
+        "https://i.postimg.cc/sxnPFC2f/img-57.png",
+        "https://i.postimg.cc/44wQHV1C/img-58.png",
+        "https://i.postimg.cc/J4ncN0Ts/img-59.png",
+        "https://i.postimg.cc/wjkq9xpk/img-6.png",
+        "https://i.postimg.cc/4NSvBGMB/img-60.png",
+        "https://i.postimg.cc/bvXxfTqn/img-61.png",
+        "https://i.postimg.cc/FHky6qXm/img-62.png",
+        "https://i.postimg.cc/zfnnzgfc/img-63.png",
+        "https://i.postimg.cc/XJ49pYG7/img-64.png",
+        "https://i.postimg.cc/NMDmTvm8/img-65.png"
+        
+      ]
+    }
+  ]
+}
