@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/2715234304",
+      "admob_int": "ca-app-pub-4693715157350667/9089070962",
+      "admob_native": "ca-app-pub-4693715157350667/4375746439",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "Lady Diana",
+      "photo": "https://i.postimg.cc/TPCxMrXK/62fd1839c4e6d26984dc52bb72720a90.jpg",
+      "voice": "https://ringy9.github.io/LadyDiana/MP3.mp4",
+      "video": "https://ringy9.github.io/LadyDiana/video1.mp4",
+      "stories": [
+        "https://i.postimg.cc/28m0vgWf/img1.jpg",
+        "https://i.postimg.cc/dtB49nRZ/img2.jpg",
+        "https://i.postimg.cc/fRR5qX52/img3.jpg",
+        "https://i.postimg.cc/vZ2hJBNQ/img4.jpg",
+        "https://i.postimg.cc/nLs2pJyq/img5.jpg"
+        
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/28m0vgWf/img1.jpg",
+        "https://i.postimg.cc/dtB49nRZ/img2.jpg",
+        "https://i.postimg.cc/fRR5qX52/img3.jpg",
+        "https://i.postimg.cc/vZ2hJBNQ/img4.jpg",
+        "https://i.postimg.cc/nLs2pJyq/img5.jpg"
+        
+      ]
+    }
+  ]
+}
