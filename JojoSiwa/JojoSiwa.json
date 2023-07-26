@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/7604281671",
+      "admob_int": "ca-app-pub-4693715157350667/8106327632",
+      "admob_native": "ca-app-pub-4693715157350667/1038873326",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "Jojo Siwa",
+      "photo": "https://i.postimg.cc/HW01NPzf/jojo-siwa-lede.webp",
+      "voice": "https://ringy9.github.io/Jojo-Siwa/hero_voice.mp3",
+      "video": "https://ringy9.github.io/Jojo-Siwa/hero_video.mp4",
+      "stories": [
+        "https://i.postimg.cc/Pqcdtpv9/00-story-jojo-siwa.webp",
+        "https://i.postimg.cc/qqH03PLG/0d4c202da4244c5e5caa181e39bdcdc1-love-her-i-love.jpg",
+        "https://i.postimg.cc/RVR9Wbnc/2720f18bd9ba5700777e55b8d6e6b413-jojo-siwa-dance-moms.jpg",
+        "https://i.postimg.cc/wjjzLchn/5ea04b76a2fd915c5e044ef3.webp",
+        "https://i.postimg.cc/8zXSHJ4c/5ef5ff979a570a99e686b9197785d9b9.jpg",
+        "https://i.postimg.cc/44pXg3f2/618eaba10e5c2f0019068527.webp",
+        "https://i.postimg.cc/DyFnyKmv/6a570a755294309ca2af5e447676aab5.jpg",
+        "https://i.postimg.cc/LX12h9zX/93e0f3a2df0fa3504b150d13013985f4.jpg",
+        "https://i.postimg.cc/GtPRJXgn/9df434189c61f708928b935eb7e80d69.jpg",
+        "https://i.postimg.cc/d3FP18sH/b4ae3665293b426bcb3b32dacebafd98.jpg",
+        "https://i.postimg.cc/6Q7N1Wb0/b8c00a68c2bbfd02a88b2863e7a938c9.jpg",
+        "https://i.postimg.cc/0QD1PtsK/bc506530e02338512baae0ae3f3064c5.jpg",
+        "https://i.postimg.cc/HLf1qqfC/c0173e13a27af415976a44e855194598.jpg",
+        "https://i.postimg.cc/prBNnpy2/fd2255fd9bce92b0d1baebc9bd15769f.jpg",
+        "https://i.postimg.cc/HW01NPzf/jojo-siwa-lede.webp"
+        
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/Pqcdtpv9/00-story-jojo-siwa.webp",
+        "https://i.postimg.cc/qqH03PLG/0d4c202da4244c5e5caa181e39bdcdc1-love-her-i-love.jpg",
+        "https://i.postimg.cc/RVR9Wbnc/2720f18bd9ba5700777e55b8d6e6b413-jojo-siwa-dance-moms.jpg",
+        "https://i.postimg.cc/wjjzLchn/5ea04b76a2fd915c5e044ef3.webp",
+        "https://i.postimg.cc/8zXSHJ4c/5ef5ff979a570a99e686b9197785d9b9.jpg",
+        "https://i.postimg.cc/44pXg3f2/618eaba10e5c2f0019068527.webp",
+        "https://i.postimg.cc/DyFnyKmv/6a570a755294309ca2af5e447676aab5.jpg",
+        "https://i.postimg.cc/LX12h9zX/93e0f3a2df0fa3504b150d13013985f4.jpg",
+        "https://i.postimg.cc/GtPRJXgn/9df434189c61f708928b935eb7e80d69.jpg",
+        "https://i.postimg.cc/d3FP18sH/b4ae3665293b426bcb3b32dacebafd98.jpg",
+        "https://i.postimg.cc/6Q7N1Wb0/b8c00a68c2bbfd02a88b2863e7a938c9.jpg",
+        "https://i.postimg.cc/0QD1PtsK/bc506530e02338512baae0ae3f3064c5.jpg",
+        "https://i.postimg.cc/HLf1qqfC/c0173e13a27af415976a44e855194598.jpg",
+        "https://i.postimg.cc/prBNnpy2/fd2255fd9bce92b0d1baebc9bd15769f.jpg",
+        "https://i.postimg.cc/HW01NPzf/jojo-siwa-lede.webp"
+        
+      ]
+    }
+  ]
+}
