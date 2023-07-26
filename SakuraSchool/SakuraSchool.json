@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/2028838599",
+      "admob_int": "ca-app-pub-4693715157350667/8687893514",
+      "admob_native": "ca-app-pub-4693715157350667/9524185231",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "Sakura School",
+      "photo": "https://i.postimg.cc/FFV3QSrt/1d146e813cc93972f6a58d005f841503.jpg",
+      "voice": "https://ringy9.github.io/Sakura-School/sakura.mp4",
+      "video": "https://ringy9.github.io/Sakura-School/sakura.mp4",
+      "stories": [
+        "https://i.postimg.cc/FFV3QSrt/1d146e813cc93972f6a58d005f841503.jpg",
+        "https://i.postimg.cc/MpNjYbDB/24c27d7d415d6486308c44c9dfbc1225.jpg",
+        "https://i.postimg.cc/VvfSN7Yx/42402453ff7d267d04bfab5b1303caa0.jpg",
+        "https://i.postimg.cc/y8kZ9rFB/552d1a23d53c305ce80a2dfbbd3ccc1d.jpg",
+        "https://i.postimg.cc/B6cL4WG5/7f13fc20f5be3a71fc351746d6e3d894.jpg",
+        "https://i.postimg.cc/nLm9SjRP/8aab077f5c5b6c5446fec79e4693d588.jpg",
+        "https://i.postimg.cc/m2ZMZrkP/b98a6c55dbddc97ceee9eaa5405441f6.jpg",
+        "https://i.postimg.cc/8Pyv7Vft/ba8a03a948c9af938376616d150d34f3.jpg",
+        "https://i.postimg.cc/nztjyFNc/bcef13341735dbee9f574a765145d1c5.jpg",
+        "https://i.postimg.cc/tRkZcHkp/c25a13c0f95a226b6a7a8a14036d1e1e.jpg",
+        "https://i.postimg.cc/cCFvtQCr/cb264b97d91bc8dd7af1ee5f494dd90f.jpg"
+        
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/FFV3QSrt/1d146e813cc93972f6a58d005f841503.jpg",
+        "https://i.postimg.cc/MpNjYbDB/24c27d7d415d6486308c44c9dfbc1225.jpg",
+        "https://i.postimg.cc/VvfSN7Yx/42402453ff7d267d04bfab5b1303caa0.jpg",
+        "https://i.postimg.cc/y8kZ9rFB/552d1a23d53c305ce80a2dfbbd3ccc1d.jpg",
+        "https://i.postimg.cc/B6cL4WG5/7f13fc20f5be3a71fc351746d6e3d894.jpg",
+        "https://i.postimg.cc/nLm9SjRP/8aab077f5c5b6c5446fec79e4693d588.jpg",
+        "https://i.postimg.cc/m2ZMZrkP/b98a6c55dbddc97ceee9eaa5405441f6.jpg",
+        "https://i.postimg.cc/8Pyv7Vft/ba8a03a948c9af938376616d150d34f3.jpg",
+        "https://i.postimg.cc/nztjyFNc/bcef13341735dbee9f574a765145d1c5.jpg",
+        "https://i.postimg.cc/tRkZcHkp/c25a13c0f95a226b6a7a8a14036d1e1e.jpg",
+        "https://i.postimg.cc/cCFvtQCr/cb264b97d91bc8dd7af1ee5f494dd90f.jpg"
+        
+      ]
+    }
+  ]
+}
