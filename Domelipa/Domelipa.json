@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/2311855720",
+      "admob_int": "ca-app-pub-4693715157350667/9998774059",
+      "admob_native": "ca-app-pub-4693715157350667/4746447377",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "Domelipa",
+      "photo": "https://i.postimg.cc/jd49T0Vw/2f4229b458d6394ec957fbc61efc4083.jpg",
+      "voice": "https://ringy9.github.io/Domelipa/voice.mp4",
+      "video": "https://ringy9.github.io/Domelipa/video_1.mp4",
+      "stories": [
+        "https://i.postimg.cc/zvmMzqXW/0b35148f60ff475f11c2b0c77771cd44.jpg",
+        "https://i.postimg.cc/0NbH7zzD/23aa8fa0531c8bdb35a3ee36893df955.jpg",
+        "https://i.postimg.cc/CxvQZGxw/241fa4ff76c9ec70f75b1c43da1f4c39.jpg",
+        "https://i.postimg.cc/d3mWJdfP/283378db250bbc882eb3ffca30b36923.jpg",
+        "https://i.postimg.cc/G3YVMTqj/2cd85f4781b2e6f00573778f1f22ead2.jpg",
+        "https://i.postimg.cc/jd49T0Vw/2f4229b458d6394ec957fbc61efc4083.jpg",
+        "https://i.postimg.cc/prtGNkqJ/3495d35112eaf72e9f90e61d6887ec41.jpg",
+        "https://i.postimg.cc/fbpqCMdF/67fb78990befe6be2925332ea65fc81e.jpg",
+        "https://i.postimg.cc/YC2PqnkX/7841a39f75a92be90c96b1b59f1229f8.jpg",
+        "https://i.postimg.cc/qq8FgWzF/7da503435083eef8cc10c081a5e87293.jpg",
+        "https://i.postimg.cc/Qx3PvNzZ/8f8eb803d0ab1019cd21159e44e78efb.jpg",
+        "https://i.postimg.cc/DZGjYRdz/b4ae4352c4fd4a550b5cf1f71abc75c6.jpg",
+        "https://i.postimg.cc/DfqpQkwj/debd8991107f79453e879a3f458fcc71.jpg",
+        "https://i.postimg.cc/gkmSNSwY/e600f574dbc0106141377955cf965076.jpg"
+        
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/zvmMzqXW/0b35148f60ff475f11c2b0c77771cd44.jpg",
+        "https://i.postimg.cc/0NbH7zzD/23aa8fa0531c8bdb35a3ee36893df955.jpg",
+        "https://i.postimg.cc/CxvQZGxw/241fa4ff76c9ec70f75b1c43da1f4c39.jpg",
+        "https://i.postimg.cc/d3mWJdfP/283378db250bbc882eb3ffca30b36923.jpg",
+        "https://i.postimg.cc/G3YVMTqj/2cd85f4781b2e6f00573778f1f22ead2.jpg",
+        "https://i.postimg.cc/jd49T0Vw/2f4229b458d6394ec957fbc61efc4083.jpg",
+        "https://i.postimg.cc/prtGNkqJ/3495d35112eaf72e9f90e61d6887ec41.jpg",
+        "https://i.postimg.cc/fbpqCMdF/67fb78990befe6be2925332ea65fc81e.jpg",
+        "https://i.postimg.cc/YC2PqnkX/7841a39f75a92be90c96b1b59f1229f8.jpg",
+        "https://i.postimg.cc/qq8FgWzF/7da503435083eef8cc10c081a5e87293.jpg",
+        "https://i.postimg.cc/Qx3PvNzZ/8f8eb803d0ab1019cd21159e44e78efb.jpg",
+        "https://i.postimg.cc/DZGjYRdz/b4ae4352c4fd4a550b5cf1f71abc75c6.jpg",
+        "https://i.postimg.cc/DfqpQkwj/debd8991107f79453e879a3f458fcc71.jpg",
+        "https://i.postimg.cc/gkmSNSwY/e600f574dbc0106141377955cf965076.jpg"
+        
+      ]
+    }
+  ]
+}
